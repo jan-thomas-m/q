@@ -1,4 +1,4 @@
-name: simple-github-actions
+name: test
 run-name: A simple noop test
 on:
   push:
